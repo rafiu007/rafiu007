@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiu007" alt="rafiu007" /></a> </p>
 
-- 💬 Ask me about **quay ,clair, claircore, Depemdency analytics**
+- 💬 Ask me about **quay ,clair, claircore, Dependency analytics**
 
 - 📫 How to reach me **rafiu.jaman1997@gmail.com**
 
