@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafiu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiu007&label=Profile%20views&color=0e75b6&style=flat" alt="rafiu007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiu007" alt="rafiu007" /></a> </p>
 
-- 💬 Ask me about **quay ,clair, claircore, Depemdency analytics**
+- 💬 Ask me about **quay ,clair, claircore, Dependency analytics**
 
 - 📫 How to reach me **rafiu.jaman1997@gmail.com**
 
